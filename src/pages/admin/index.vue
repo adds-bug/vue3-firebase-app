@@ -1,5 +1,7 @@
 <template>
-  <div class="text-h4">About</div>
+  <div>
+    <div class="text-h4">Admin/Index</div>
+  </div>
 </template>
 
 <script setup></script>

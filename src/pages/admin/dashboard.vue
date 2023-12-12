@@ -1,5 +1,7 @@
 <template>
-  <div class="text-h4">Index Doc</div>
+  <div>
+    <div class="text-h4">Admin/Dashboard</div>
+  </div>
 </template>
 
 <script setup></script>
